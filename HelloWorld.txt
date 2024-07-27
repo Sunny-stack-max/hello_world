@@ -1,0 +1,1 @@
+print("hello World") // this is in python write the same for cpp
