@@ -1,1 +1,2 @@
 print("hello World") // this is in python write the same for cpp
+cout<<"Hello World"; // this is the code for Cpp "hello world"
